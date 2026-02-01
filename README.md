@@ -8,7 +8,7 @@ The dashboard enables business users to monitor policy performance, analyze clai
 
 ---
 
-## 🎯 #BusinessUseCase
+## 🎯 #UseCase
 
 Traditional insurance reports often rely on manual processes and full data refresh cycles, leading to:
 
