@@ -1,8 +1,8 @@
-# 📊 Insurance Analytics Dashboard — Power BI Project
+# 📊 Insurance Claims Analytics Dashboard — Power BI Project
 
 ## 🔹 #ProjectOverview
 
-This project demonstrates an end-to-end **Power BI Insurance Analytics Dashboard** built to transform manual insurance reporting into an automated, interactive, and secure analytics solution.
+This project demonstrates an end-to-end **Power BI Insurance Claims Analytics Dashboard** built to transform manual insurance reporting into an automated, interactive, and secure analytics solution.
 
 The dashboard enables business users to monitor policy performance, analyze claims, and drill down into specific policy segments while maintaining performance and data security using **Incremental Refresh** and **Row Level Security (RLS)**.
 
