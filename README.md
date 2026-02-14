@@ -116,9 +116,8 @@ The dashboard tracks the following key performance indicators:
 
 ---
 
-## 📸 #Screenshots
-![image](https://github.com/user-attachments/assets/b2d8ddd5-a6dc-4cae-a589-add62a67f1e3)
-
+## 📸 #Screenshot
+<img width="1431" height="802" alt="image" src="https://github.com/user-attachments/assets/0830b5fd-15d5-4e9d-b692-bd96bf35696b" />
 
 ---
 
